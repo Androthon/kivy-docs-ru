@@ -4,9 +4,9 @@ Kivy это Open-Source фреймворк для кроссплатформен
 Kivy предоставляет набор инструментов для построения GUI и работы с API устройства, а также поддерживает мультитач.
 
 Для начала предлагаем вам начать с [Быстрого старта](https://github.com/Androthon/kivy-docs-ru/getting-started-00.md).
-Затем перейдите к [Руководству по программированию](https://github.com/Androthon/kivy-docs-ru/programming-guide-00.md)
-Ну а если вы нетерпеливы, то можете приступить сразу к [Созданию приложения](https://github.com/Androthon/kivy-docs-ru/create-an-application-00.md)
+Затем перейдите к [Руководству по программированию](https://github.com/Androthon/kivy-docs-ru/programming-guide-00.md).
+Ну а если вы нетерпеливы, то можете приступить сразу к [Созданию приложения](https://github.com/Androthon/kivy-docs-ru/create-an-application-00.md).
 
-[Оглавление]()
+## [Оглавление](https://github.com/Androthon/kivy-docs-ru/list.md)
 
-Переводчик - @GavrilinNikita
+### Перевел [Androthon](https://github.com/Androthon/)
