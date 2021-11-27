@@ -35,4 +35,4 @@ Kivy дает вам возможность написать свой код о�
 
 ## [Далее -->](https://github.com/Androthon/kivy-docs-ru/getting-started-01.md)
 ## [Оглавление](https://github.com/Androthon/kivy-docs-ru/list.md)
-### Перевëл [Androthon](https://github.com/Androthon/)
+### Перевëл [Androthon](https://github.com/Androthon/) ([Оригинал](https://kivy.org/doc/stable/gettingstarted/intro.html))
