@@ -9,4 +9,4 @@ Kivy предоставляет набор инструментов для по�
 
 ## [Оглавление](https://github.com/Androthon/kivy-docs-ru/list.md)
 
-### Перевел [Androthon](https://github.com/Androthon/)
+### Перевëл [Androthon](https://github.com/Androthon/)
